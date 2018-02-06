@@ -1,8 +1,20 @@
 ## Jay Cruikshank
 
-You can use the [editor on GitHub](https://github.com/jaycruiks/jaycruiks.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Summary
+Experienced Teaching Assistant with a demonstrated history of working in the health industry. Skilled in Python, Java, C, ARM, and Technical Support. Computer Science undergraduate attending University of San Francisco. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Education
+University of San Francisco (USF), San Francisco, CA 
+B.S. Computer Science 
+Minor Entrepreneurship and Innovation
+
+# Work Experience
+- University Of San Francisco (Fall 2016 - Present)
+  - Teaching Assistant Computer Science 110
+  -	Interact with students providing support, and Grade Labs, Projects, Quizzes
+  - Providing guidance for other TA's
+- State Fund Insurance: Pleasanton, CA (June - August 2017)
+
 
 ### Markdown
 

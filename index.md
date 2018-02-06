@@ -1,14 +1,14 @@
-# Jay Cruikshank
+## Jay Cruikshank
 
-## Summary
+### Summary
 Experienced Teaching Assistant with a demonstrated history of working in the health industry. Skilled in Python, Java, C, ARM, and Technical Support. Computer Science undergraduate attending University of San Francisco. 
 
-## Education
+### Education
 University of San Francisco (USF), San Francisco, CA 
 B.S. Computer Science 
 Minor Entrepreneurship and Innovation
 
-## Work Experience
+### Work Experience
 #### University Of San Francisco (Fall 2016 - Present)
   - Teaching Assistant Computer Science 110
     -	Interact with students providing support, and Grade Labs, Projects, Quizzes
@@ -19,6 +19,17 @@ Minor Entrepreneurship and Innovation
     - Gained knowledge in the understanding of a structure of an Insurance Compensation Agency.
     - Executed designed tests cases for their newly implement Database and Website and worked with Microsoft Excel
     - Inspired the use of coding to simplify tasks
+#### Riverside University Health System-Medical Center:  Moreno Valley, CA (June - August 2016)
+  - Credentialed Epic (Electronic Health Record) Ambulatory Trainer
+    - Taught Ambulatory classes to Doctors and Nurses for the Health System Epic Implantation 
+    - On sight end user go-live support / Taught Individual Epic, user interface customization classes
+    - Assisted with implementation of ServiceNow (Help Desk Management Software)
+#### Riverside University Health System-Medical Center:  Moreno Valley, CA (June - August 2015)
+  - Professional Information Technology Intern, reported to Medical Center Chief Information Officer
+    - Worked at a Help Desk providing general I.T support and assistance
+    - Utilized Microsoft Access to generate tables for invoicing 
+    - Repaired and performed maintenance on computers, Think Stations, WOW (Workstations on Wheels) carts 
+    - Trained with a representative from NEXUS and learned about the network structure
 
 
 ### Markdown

@@ -39,10 +39,10 @@ Minor Entrepreneurship and Innovation
   - **IT Skills**: Hardware, Software, and ServiceNow
 
 ### Leadership / Clubs 
-  #### Association for Computing Machinery - Officer/Chair (Fall 2016 - Present) 
-   - Plan and execute events
-   - Manage the ACM USF website
-   - Keep everyone goal oriente
+   - **Association for Computing Machinery - Officer/Chair (Fall 2016 - Present)**
+     - Plan and execute events
+     - Manage the ACM USF website
+     - Keep everyone goal oriente
 
 
 ### Markdown
@@ -56,13 +56,7 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```

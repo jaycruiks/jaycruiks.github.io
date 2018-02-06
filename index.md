@@ -40,9 +40,9 @@ Minor Entrepreneurship and Innovation
 
 ### Leadership / Clubs 
   ##### Association for Computing Machinery - Officer/Chair (Fall 2016 - Present) 
-    - Plan and execute events
-    - Manage the ACM USF website
-    - Keep everyone goal oriente
+   - Plan and execute events
+   - Manage the ACM USF website
+   - Keep everyone goal oriente
 
 
 ### Markdown

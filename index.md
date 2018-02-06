@@ -1,19 +1,24 @@
-## Jay Cruikshank
+# Jay Cruikshank
 
-# Summary
+## Summary
 Experienced Teaching Assistant with a demonstrated history of working in the health industry. Skilled in Python, Java, C, ARM, and Technical Support. Computer Science undergraduate attending University of San Francisco. 
 
-# Education
+## Education
 University of San Francisco (USF), San Francisco, CA 
 B.S. Computer Science 
 Minor Entrepreneurship and Innovation
 
-# Work Experience
-- University Of San Francisco (Fall 2016 - Present)
+## Work Experience
+#### University Of San Francisco (Fall 2016 - Present)
   - Teaching Assistant Computer Science 110
-  -	Interact with students providing support, and Grade Labs, Projects, Quizzes
-  - Providing guidance for other TA's
-- State Fund Insurance: Pleasanton, CA (June - August 2017)
+    -	Interact with students providing support, and Grade Labs, Projects, Quizzes
+    - Providing guidance for other TA's
+#### State Fund Insurance: Pleasanton, CA (June - August 2017)
+  - IT Quality Assurance Analyst
+    - Learned about their newly implemented Database and Website.
+    - Gained knowledge in the understanding of a structure of an Insurance Compensation Agency.
+    - Executed designed tests cases for their newly implement Database and Website and worked with Microsoft Excel
+    - Inspired the use of coding to simplify tasks
 
 
 ### Markdown

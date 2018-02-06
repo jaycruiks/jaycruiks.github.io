@@ -12,7 +12,7 @@ Minor Entrepreneurship and Innovation
 **University Of San Francisco (Fall 2016 - Present)**
   - Teaching Assistant Computer Science 110
     -	Interact with students providing support, and Grade Labs, Projects, Quizzes
-    - Providing guidance for other TA's
+    - Providing guidance for other TA's 
 **State Fund Insurance: Pleasanton, CA (June - August 2017)**
   - IT Quality Assurance Analyst
     - Learned about their newly implemented Database and Website.

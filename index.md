@@ -9,7 +9,7 @@ B.S. Computer Science
 Minor Entrepreneurship and Innovation
 
 ### Work Experience
-  - #### University Of San Francisco (Fall 2016 - Present)
+  - **University Of San Francisco (Fall 2016 - Present)**
     - Teaching Assistant Computer Science 110
       -	Interact with students providing support, and Grade Labs, Projects, Quizzes
       - Providing guidance for other TA's

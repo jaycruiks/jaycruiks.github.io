@@ -39,7 +39,7 @@ Minor Entrepreneurship and Innovation
   - **IT Skills**: Hardware, Software, and ServiceNow
 
 ### Leadership / Clubs 
-  ##### Association for Computing Machinery - Officer/Chair (Fall 2016 - Present) 
+  #### Association for Computing Machinery - Officer/Chair (Fall 2016 - Present) 
    - Plan and execute events
    - Manage the ACM USF website
    - Keep everyone goal oriente

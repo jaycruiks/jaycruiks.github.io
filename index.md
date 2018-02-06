@@ -31,6 +31,13 @@ Minor Entrepreneurship and Innovation
     - Repaired and performed maintenance on computers, Think Stations, WOW (Workstations on Wheels) carts 
     - Trained with a representative from NEXUS and learned about the network structure
 
+### Techinical Computer Skills
+  - Programming Languages: Python, Java, C, ARM, MySQL
+  - Website design: HTML
+  - Creative Editing Software: Adobe Photoshop, iMovie
+  - Microsoft Office Suit: Office, PowerPoint, Excel, Word, Access 	
+  - IT Skills: Hardware, Software, and ServiceNow
+
 
 ### Markdown
 

@@ -1,7 +1,7 @@
 ## Jay Cruikshank
 
 ### Summary
-Experienced Teaching Assistant with a demonstrated history of working in the health industry. Skilled in Python, Java, C, ARM, and Technical Support. Computer Science undergraduate attending University of San Francisco. 
+Experienced Teaching Assistant with a demonstrated history of working with infromation technology. Skilled in Python, Java, C, and ARM. Computer Science undergraduate attending University of San Francisco. 
 
 ### Education
 - University of San Francisco (USF), San Francisco, CA 

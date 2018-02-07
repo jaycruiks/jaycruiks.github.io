@@ -51,7 +51,7 @@ Experienced Teaching Assistant with a demonstrated history of working in the hea
 - Maarkd (Find Parking Faster)
     - [Home Page](http://maarkd.com)
     - Work in Progress
-- CS 315: Computer Architectur (Fall 2017)
+- CS 315: Computer Architecture (Fall 2017)
     - Performance analysis techniques, instruction set design, computer arithmetic, digital design, processor implementation, and memory systems. Performance enhancement using pipelining and cache memory. Four hours lecture and two hours lab. 
     - [Project](https://github.com/jaycruiks/jaycruiks.github.io/tree/master/Project%204)
 - CS 212: Software Development (Fall 2017)

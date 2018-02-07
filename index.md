@@ -1,18 +1,18 @@
 ## Jay Cruikshank
 
 ### Summary
-Experienced Teaching Assistant with a demonstrated history of working with Infromation Technology. Skilled in Python, Java, C, and ARM. Computer Science undergraduate attending University of San Francisco. 
+Experienced Teaching Assistant with a demonstrated history of working with Information Technology. Skilled in Python, Java, C, and ARM. Computer Science undergraduate attending University of San Francisco. 
 
 ### Education
 - University of San Francisco (USF), San Francisco, CA 
-- B.S. Science 
+- Bachelor of Science Degree 
     - Major in Computer Science
     - Minor Entrepreneurship and Innovation
 
 ### Work Experience
 #### University Of San Francisco (Fall 2016 - Present)
-    - Teaching Assistant Computer Science 110
-      -	Interact with students providing support, and Grade Labs, Projects, Quizzes
+    - Teaching Assistant: Computer Science 110
+      - Interact with students providing support, and Grade Labs, Projects, Quizzes
       - Providing guidance for other TA's
 
 #### State Fund Insurance: Pleasanton, CA (June - August 2017)

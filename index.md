@@ -4,9 +4,9 @@
 Experienced Teaching Assistant with a demonstrated history of working in the health industry. Skilled in Python, Java, C, ARM, and Technical Support. Computer Science undergraduate attending University of San Francisco. 
 
 ### Education
-University of San Francisco (USF), San Francisco, CA 
-B.S. Computer Science 
-Minor Entrepreneurship and Innovation
+- University of San Francisco (USF), San Francisco, CA 
+- B.S. Computer Science 
+- Minor Entrepreneurship and Innovation
 
 ### Work Experience
 #### University Of San Francisco (Fall 2016 - Present)

@@ -55,7 +55,7 @@ Experienced Teaching Assistant with a demonstrated history of working with Infor
 - **CS 315: Computer Architecture (Fall 2017)**
     - Performance analysis techniques, instruction set design, computer arithmetic, digital design, processor implementation, and memory systems. Performance enhancement using pipelining and cache memory. Four hours lecture and two hours lab. 
     
-    - [Project](https://github.com/jaycruiks/jaycruiks.github.io/blob/master/CS 315/)
+    - [Project](CS 315)
 - **CS 212: Software Development (Fall 2017)**
     - Advanced programming topics including inheritance and polymorphism, multi-threaded programming, networking, database programming, and web development. Techniques for debugging, refactoring, and reviewing code. 
     - [Project]()

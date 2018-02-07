@@ -47,7 +47,7 @@ Experienced Teaching Assistant with a demonstrated history of working in the hea
      - Manage the ACM USF website
      - Keep everyone goal oriente
 
-### Most Recent Projects
+### Most Recent Projects / Courses
 - Maarkd (Find Parking Faster)
     - [Home Page](http://maarkd.com)
     - Work in Progress

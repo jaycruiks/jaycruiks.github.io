@@ -35,7 +35,7 @@ Experienced Teaching Assistant with a demonstrated history of working in the hea
       - Trained with a representative from NEXUS and learned about the network structure
 
 ### Techinical Computer Skills
-  - **Programming Languages:** Python, Java, C, ARM, MySQL
+  - **Programming Languages:** Python, Java, C, ARM, MySQL, (Swift - In Progress)
   - **Website design:** HTML
   - **Creative Editing Software:** Adobe Photoshop, iMovie
   - **Microsoft Office Suit**: Office, PowerPoint, Excel, Word, Access 	
@@ -47,29 +47,11 @@ Experienced Teaching Assistant with a demonstrated history of working in the hea
      - Manage the ACM USF website
      - Keep everyone goal oriente
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaycruiks/jaycruiks.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Course Work / Related Projects
+- Maarkd (Find Parking Faster)
+    - [Home Page](http://maarkd.com)
+    - Work in Progress
+- CS 315: Computer Architectur (Fall 2017)
+    - Performance analysis techniques, instruction set design, computer arithmetic, digital design, processor implementation, and memory systems. Performance enhancement using pipelining and cache memory. Four hours lecture and two hours lab. 
+    - [Project](https://github.com/USF-CS315-F17/project04-jaycruiks.git)
+    

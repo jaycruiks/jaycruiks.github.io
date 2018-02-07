@@ -59,5 +59,5 @@ Experienced Teaching Assistant with a demonstrated history of working in the hea
     - [Project](https://github.com/jaycruiks/jaycruiks.github.io/tree/master/CS%20212%20project)
 - **CS 245: Data Structures & Algorithms (Spring 2017)**
     - Algorithm analysis and asymptotic running time calculations. Algorithm design techniques and implementation details. Algorithms for sorting and searching, trees, graphs, and other selected topics.
-    - [Projects](https://github.com/jaycruiks/jaycruiks.github.io/tree/master/CS%20212)
+    - [Projects](https://github.com/jaycruiks/jaycruiks.github.io/tree/master/CS%20245)
     

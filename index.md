@@ -53,5 +53,5 @@ Experienced Teaching Assistant with a demonstrated history of working in the hea
     - Work in Progress
 - CS 315: Computer Architectur (Fall 2017)
     - Performance analysis techniques, instruction set design, computer arithmetic, digital design, processor implementation, and memory systems. Performance enhancement using pipelining and cache memory. Four hours lecture and two hours lab. 
-    - [Project]()
+    - [Project](https://github.com/jaycruiks/jaycruiks.github.io/tree/master/Project%204)
     

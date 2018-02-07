@@ -1,0 +1,9 @@
+create table people(
+id MEDIUMINT NOT NULL AUTO_INCREMENT,
+name varchar(100),
+address varchar(255),
+email varchar(255),
+cc_number varchar(5),
+password varchar(255),
+PRIMARY KEY (id)
+);

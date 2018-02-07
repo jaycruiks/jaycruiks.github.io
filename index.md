@@ -47,11 +47,11 @@ Experienced Teaching Assistant with a demonstrated history of working in the hea
      - Manage the ACM USF website
      - Keep everyone goal oriente
 
-### Course Work / Related Projects
+### Most Recent Projects
 - Maarkd (Find Parking Faster)
     - [Home Page](http://maarkd.com)
     - Work in Progress
 - CS 315: Computer Architectur (Fall 2017)
     - Performance analysis techniques, instruction set design, computer arithmetic, digital design, processor implementation, and memory systems. Performance enhancement using pipelining and cache memory. Four hours lecture and two hours lab. 
-    - [Project](https://github.com/USF-CS315-F17/project04-jaycruiks.git)
+    - [Project](https://github.com/jaycruiks/jaycruiks.github.io/tree/master/Project%204)
     

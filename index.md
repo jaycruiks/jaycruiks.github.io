@@ -49,7 +49,7 @@ Experienced Teaching Assistant with a demonstrated history of working with Infor
      - Keep everyone goal oriente
 
 ### Most Recent Projects / Courses
-- **Maarkd (Find Parking Faster**
+- **Maarkd (Find Parking Faster)**
     - [Home Page](http://maarkd.com)
     - Work in Progress
 - **CS 315: Computer Architecture (Fall 2017)**

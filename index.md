@@ -10,6 +10,12 @@ Experienced Teaching Assistant with a demonstrated history of working with Infor
     - Minor Entrepreneurship and Innovation
 
 ### Work Experience
+#### BIONIC Marketing Technology: Dublin, Ireland (June - August 2018)
+    - Summer Intern
+      - Participated in agile software development for their REST API
+      -Identified risks and implemented viable course of action
+      -Built reusable code for future use.
+
 #### University Of San Francisco (Fall 2016 - Present)
     - Teaching Assistant: Computer Science 110
       - Interact with students providing support, and Grade Labs, Projects, Quizzes

@@ -16,7 +16,7 @@ Experienced Teaching Assistant with a demonstrated history of working with Infor
       -Identified risks and implemented viable course of action
       -Built reusable code for future use.
 
-#### University Of San Francisco (Fall 2016 - Present)
+#### University Of San Francisco (Fall 2016 - Fall 2018)
     - Teaching Assistant: Computer Science 110
       - Interact with students providing support, and Grade Labs, Projects, Quizzes
       - Providing guidance for other TA's

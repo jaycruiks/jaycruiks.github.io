@@ -57,16 +57,21 @@ Experienced Teaching Assistant with a demonstrated history of working with Infor
      - Keep everyone goal oriente
 
 ### Most Recent Projects / Courses
+
 - **Maarkd (Find Parking Faster)**
     - [Home Page](http://maarkd.com)
     - Work in Progress
-- **CS 315: Computer Architecture (Fall 2017)**
+- **CS 333: Intro to Database Systems**
+    - Data modeling, record storage, and file organization; database theory; relational, hierarchical, and network models; database management systems and query languages
+- **CS 326: Operating Systems**
+    - Study of processes, threads, scheduling, synchronization, inter-process communication, device drivers, memory management, and file systems
+- **CS 315: Computer Architecture**
     - Performance analysis techniques, instruction set design, computer arithmetic, digital design, processor implementation, and memory systems. Performance enhancement using pipelining and cache memory. Four hours lecture and two hours lab. 
     - [Project](https://github.com/jaycruiks/jaycruiks.github.io/tree/master/CS%20315)
-- **CS 212: Software Development (Fall 2017)**
+- **CS 212: Software Development**
     - Advanced programming topics including inheritance and polymorphism, multi-threaded programming, networking, database programming, and web development. Techniques for debugging, refactoring, and reviewing code. 
     - [Project](https://github.com/jaycruiks/jaycruiks.github.io/tree/master/CS%20212)
-- **CS 245: Data Structures & Algorithms (Spring 2017)**
+- **CS 245: Data Structures & Algorithms**
     - Algorithm analysis and asymptotic running time calculations. Algorithm design techniques and implementation details. Algorithms for sorting and searching, trees, graphs, and other selected topics.
     - [Projects](https://github.com/jaycruiks/jaycruiks.github.io/tree/master/CS%20245)
     
